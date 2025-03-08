@@ -25,3 +25,5 @@ Here are some ideas to get you started:
 - 👨‍💻 Familiar with Python, AI/ML, and AWS (crafting intelligent solutions with style)  
 - 💻 Building timeless projects, one line of code at a time.  
 - 👤 LinkedIn Profile: [Abhishek Sharma](https://www.linkedin.com/in/abhishek-sharma-4ba7b1148/)
+
+**Fun Fact**: In 1997, IBM's Deep Blue made history by beating world chess champion Garry Kasparov. The machine learned to think ahead—now, that's strategy! ♟️🤖
