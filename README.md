@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 ### Ah, what a delight to have you here 🕶  
-You’ve wandered into my digital realm. Enjoy the journey
+#### You’ve wandered into my digital realm. Enjoy the journey
 
 - 🌝 You know my name, it’s right there.  
 - 👨‍🎓 B.Tech in Computer Science (I code with a touch of elegance)  
