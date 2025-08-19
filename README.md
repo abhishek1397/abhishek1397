@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 #### You’ve wandered into my digital realm. Enjoy the journey
 
 - 🌝 You know my name, it’s right there.  
-- 👨‍🎓 B.Tech in Computer Science (I code with a touch of elegance)  
+- 👨‍🎓 B.Tech in Computer Science (I code with a touch of elegance)
+- 🎓 M.Tech in Data Science and Analytics (decoding data with precision and purpose)
 - 👨‍💻 Familiar with Python, AI/ML, and AWS (crafting intelligent solutions with style)  
 - 💻 Building timeless projects, one line of code at a time.  
 - 👤 LinkedIn Profile: [Abhishek Sharma](https://www.linkedin.com/in/abhishek-sharma-4ba7b1148/)
